@@ -44,6 +44,15 @@ My research interest includes 3D generation and pose estimation. I have publishe
 </div>
 </div>
 
+[FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.07674) [NeurIPS 2024 (Datasets and Benchmarks Track)]
+
+Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwei Liu, Dahua Lin, Gordon Wetzstein
+
+[**[Paper]**](https://arxiv.org/abs/2412.07674)&nbsp;
+[**[Video]**](https://fiva-dataset.github.io/static/videos/fiva.mp4)&nbsp;
+[**[Code]**](https://github.com/wutong16/FiVA)&nbsp;
+[**[Data]**](https://huggingface.co/datasets/FiVA/FiVA)
+
 [LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [Arxiv 2024]
 
 Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
