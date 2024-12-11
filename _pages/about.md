@@ -44,7 +44,6 @@ My research interest includes 3D generation and pose estimation. I have publishe
 </div>
 </div>
 
-<div>
 [FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.07674) [NeurIPS 2024 (Datasets and Benchmarks Track)]
 
 Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwei Liu, Dahua Lin, Gordon Wetzstein
@@ -54,9 +53,6 @@ Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwe
 [**[Code]**](https://github.com/wutong16/FiVA)&nbsp;
 [**[Data]**](https://huggingface.co/datasets/FiVA/FiVA)
 
-</div>
-
-<div>
 [LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [Arxiv 2024]
 
 Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
@@ -65,9 +61,6 @@ Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, 
 [**[Paper]**](https://arxiv.org/abs/2408.13252)&nbsp;
 [**[Code]**](https://github.com/3DTopia/LayerPano3D)&nbsp;
 
-</div>
-
-<div>
 [Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images](https://arxiv.org/abs/2407.06191) [Arxiv 2024]
 
 Zhangyang Qi, Yunhan Yang, **Mengchen Zhang**, Long Xing, Xiaoyang Wu, Tong Wu, Dahua Lin, Xihui Liu, Jiaqi Wang, Hengshuang Zhao
@@ -76,9 +69,6 @@ Zhangyang Qi, Yunhan Yang, **Mengchen Zhang**, Long Xing, Xiaoyang Wu, Tong Wu, 
 [**[Paper]**](https://arxiv.org/abs/2407.06191)&nbsp;
 [**[Code]**](https://github.com/Qi-Zhangyang/Tailor3D)&nbsp;
 
-</div>
-
-<div>
 [Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](https://arxiv.org/abs/2312.15011) [Arxiv 2023]
 
 Zhangyang Qi, Ye Fang, **Mengchen Zhang**, Zeyi Sun, Tong Wu, Ziwei Liu, Dahua Lin, Jiaqi Wang, Hengshuang Zhao
@@ -86,13 +76,9 @@ Zhangyang Qi, Ye Fang, **Mengchen Zhang**, Zeyi Sun, Tong Wu, Ziwei Liu, Dahua L
 [**[Project]**](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V)&nbsp;
 [**[Paper]**](https://arxiv.org/abs/2312.15011)&nbsp;
 
-</div>
-<div>
-
 [Image data augmentation for deep learning: A survey](https://arxiv.org/abs/2204.08610) [Arxiv 2022]
 
 Suorong Yang, Weikang Xiao, **Mengchen Zhang**, Suhan Guo, Jian Zhao, Furao Shen
-</div>
 
 # 📖 Educations
 - *2023.09 - Present*, Ph.D. in College of Computer Science and Technology, Zhejiang University.
