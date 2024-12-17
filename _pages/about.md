@@ -93,4 +93,4 @@ Suorong Yang, Weikang Xiao, **Mengchen Zhang**, Suhan Guo, Jian Zhao, Furao Shen
 
 # 🎉 Misc
 - Graduated from Suzhou High School
-- Zhibing Li[https://lizb6626.github.io/] is both my best friend and collaborator. Wish her all the best and good luck!
+- [Zhibing Li](https://lizb6626.github.io/) is both my best friend and collaborator. Wish her all the best and good luck!
