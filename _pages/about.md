@@ -90,3 +90,7 @@ Suorong Yang, Weikang Xiao, **Mengchen Zhang**, Suhan Guo, Jian Zhao, Furao Shen
 
 # 🎖 Honors and Awards
 - *2022.09*, National Scholarship
+
+# 🎉 Misc
+- Graduated from Suzhou High School
+- Zhibing Li[https://lizb6626.github.io/] is my best friend and coauthor. Wish her all the best and good luck!
