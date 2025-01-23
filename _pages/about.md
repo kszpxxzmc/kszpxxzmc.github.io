@@ -44,6 +44,17 @@ My research interest includes 3D generation and pose estimation. I have publishe
 </div>
 </div>
 
+
+[IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations](https://lizb6626.github.io/IDArb/) [ICLR 2024]
+
+Zhibing Li, Tong Wu, Jing Tan, Mengchen Zhang, Jiaqi Wang, Dahua Lin
+
+[**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
+[**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp;
+[**[Data]**](https://huggingface.co/datasets/lizb6626/Arb-Objaverse)
+
+<hr>
 [FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.07674) [NeurIPS 2024 (Datasets and Benchmarks Track)]
 
 Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwei Liu, Dahua Lin, Gordon Wetzstein
