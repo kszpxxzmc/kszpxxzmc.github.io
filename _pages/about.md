@@ -47,7 +47,7 @@ My research interest includes 3D generation and pose estimation. I have publishe
 
 [IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations](https://lizb6626.github.io/IDArb/) [ICLR 2024]
 
-Zhibing Li, Tong Wu, Jing Tan, Mengchen Zhang, Jiaqi Wang, Dahua Lin
+Zhibing Li, Tong Wu, Jing Tan, **Mengchen Zhang**, Jiaqi Wang, Dahua Lin
 
 [**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
 [**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
