@@ -65,7 +65,7 @@ Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwe
 [**[Data]**](https://huggingface.co/datasets/FiVA/FiVA)
 
 <hr> 
-[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [Arxiv 2024]
+[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [SIGGRAPH 2025]
 
 Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
 
