@@ -45,6 +45,15 @@ My research interest includes 3D generation and pose estimation. I have publishe
 </div>
 
 
+[3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models](https://arxiv.org/abs/2503.21745) [Arxiv 2025]
+
+Yuhan Zhang^*, **Mengchen Zhang**^*, Tong Wu, Tengfei Wang, Gordon Wetzstein, Dahua Lin, Ziwei Liu
+
+[**[Paper]**](https://arxiv.org/abs/2503.21745)&nbsp;
+[**[Data]**](https://huggingface.co/datasets/3DGen/3DGen-Bench)
+
+<hr>
+
 [IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations](https://lizb6626.github.io/IDArb/) [ICLR 2024]
 
 Zhibing Li, Tong Wu, Jing Tan, **Mengchen Zhang**, Jiaqi Wang, Dahua Lin
