@@ -24,7 +24,10 @@ My research interest includes 3D generation and pose estimation. I have publishe
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉  One paper accepted to [ECCV 2024](https://eccv.ecva.net/).
+- *2025.03*: &nbsp;🎉🎉  One paper accepted to [Siggraph 2025](https://s2025.siggraph.org/).
+- *2025.01*: &nbsp;🎉🎉  One paper accepted to [ICLR 2025](https://iclr.cc/).
+- *2024.09*: &nbsp;🎉🎉  One paper accepted to [NeurIPS 2024 (D&B Track)](https://neurips.cc/).
+- *2024.07*: &nbsp;🎉🎉  One first-author paper accepted to [ECCV 2024](https://eccv.ecva.net/).
 - *2023.07*: &nbsp;🎉🎉  We are organizing [OmniObject3D Challenge](https://omniobject3d.github.io/challenge.html), hosted by [AI for 3D Content Creation Workshop](https://ai3dcc.github.io/) on [ICCV 2023](https://iccv2023.thecvf.com/).
 
 # 📝 Publications 
@@ -32,7 +35,7 @@ My research interest includes 3D generation and pose estimation. I have publishe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024_teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](https://github.com/3DTopia/Omni6D/tree/main) [ECCV 2024]
+[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2409.18261) [ECCV 2024]
 
 **Mengchen Zhang**, Tong Wu, Tai Wang, Tengfei Wang, Ziwei Liu, Dahua Lin 
 
@@ -40,6 +43,21 @@ My research interest includes 3D generation and pose estimation. I have publishe
 [**[Video]**](https://www.youtube.com/watch?v=BKyw51bUhZs)&nbsp;
 [**[Code]**](https://github.com/3DTopia/Omni6D/)&nbsp;
 [**[Data]**](https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography]() [Arxiv 2025]
+
+**Mengchen Zhang**, Tong Wu, Jing Tan, Ziwei Liu, Gordon Wetzstein, Dahua Lin
+
+[**[Project]**](https://kszpxxzmc.github.io/GenDoP/)&nbsp;
+[**[Paper]**]()&nbsp;
+[**[Code]**](https://github.com/3DTopia/GenDoP)&nbsp;
+[**[Data]**]()
 
 </div>
 </div>
