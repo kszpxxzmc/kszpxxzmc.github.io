@@ -50,12 +50,12 @@ My research interest includes 3D generation and pose estimation. I have publishe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography]() [Arxiv 2025]
+[GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [Arxiv 2025]
 
 **Mengchen Zhang**, Tong Wu, Jing Tan, Ziwei Liu, Gordon Wetzstein, Dahua Lin
 
 [**[Project]**](https://kszpxxzmc.github.io/GenDoP/)&nbsp;
-[**[Paper]**]()&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2504.07083)&nbsp;
 [**[Code]**](https://github.com/3DTopia/GenDoP)&nbsp;
 [**[Data]**]()
 
