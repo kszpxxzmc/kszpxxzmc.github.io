@@ -76,6 +76,16 @@ Yuhan Zhang$^\*$, **Mengchen Zhang**$^\*$, Tong Wu, Tengfei Wang, Gordon Wetzste
 </div>
 </div>
 
+[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [SIGGRAPH 2025]
+
+Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
+
+[**[Project]**](https://ys-imtech.github.io/projects/LayerPano3D/)&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2408.13252)&nbsp;
+[**[Code]**](https://github.com/3DTopia/LayerPano3D)&nbsp;
+
+<hr> 
+
 [IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations](https://lizb6626.github.io/IDArb/) [ICLR 2025]
 
 Zhibing Li, Tong Wu, Jing Tan, **Mengchen Zhang**, Jiaqi Wang, Dahua Lin
@@ -95,14 +105,6 @@ Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwe
 [**[Code]**](https://github.com/wutong16/FiVA)&nbsp;
 [**[Data]**](https://huggingface.co/datasets/FiVA/FiVA)
 
-<hr> 
-[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [SIGGRAPH 2025]
-
-Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
-
-[**[Project]**](https://ys-imtech.github.io/projects/LayerPano3D/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2408.13252)&nbsp;
-[**[Code]**](https://github.com/3DTopia/LayerPano3D)&nbsp;
 
 <hr> 
 [Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images](https://arxiv.org/abs/2407.06191) [Arxiv 2024]
