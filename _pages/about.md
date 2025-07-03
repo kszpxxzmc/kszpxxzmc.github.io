@@ -24,7 +24,7 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉  One paper accepted to [ICCV 2025](https://iccv.thecvf.com/).
+- *2025.06*: &nbsp;🎉🎉  One first-author paper accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - *2025.03*: &nbsp;🎉🎉  One paper accepted to [Siggraph 2025](https://s2025.siggraph.org/).
 - *2025.01*: &nbsp;🎉🎉  One paper accepted to [ICLR 2025](https://iclr.cc/).
 - *2024.09*: &nbsp;🎉🎉  One paper accepted to [NeurIPS 2024 (D&B Track)](https://neurips.cc/).
