@@ -20,10 +20,11 @@ redirect_from:
 Hi! I am a second-year Ph.D. student at [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/), supervised by Prof. [Dahua Lin](http://dahua.site/). 
 I also work closely with [Tong Wu](https://wutong16.github.io/) and [Ziwei Liu](https://liuziwei7.github.io/). Prior to this, I earned my Bachelor's degree from [School of Artificial Intelligence, Nanjing University](https://ai.nju.edu.cn/main.htm) in 2023.
 
-My research interest includes 3D generation and pose estimation. I have published papers with total google scholar citations <a href='https://scholar.google.com/citations?user=oWXEaQoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes 3D/4D generation and pose estimation. I have published papers with total google scholar citations <a href='https://scholar.google.com/citations?user=oWXEaQoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉  One paper accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - *2025.03*: &nbsp;🎉🎉  One paper accepted to [Siggraph 2025](https://s2025.siggraph.org/).
 - *2025.01*: &nbsp;🎉🎉  One paper accepted to [ICLR 2025](https://iclr.cc/).
 - *2024.09*: &nbsp;🎉🎉  One paper accepted to [NeurIPS 2024 (D&B Track)](https://neurips.cc/).
@@ -50,7 +51,7 @@ My research interest includes 3D generation and pose estimation. I have publishe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [Arxiv 2025]
+[GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [ICCV 2025]
 
 **Mengchen Zhang**, Tong Wu, Jing Tan, Ziwei Liu, Gordon Wetzstein, Dahua Lin
 
