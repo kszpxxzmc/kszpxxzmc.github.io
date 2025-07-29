@@ -48,7 +48,7 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [ICCV 2025]
