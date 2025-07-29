@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengchen Zhang"
   avatar           : "images/zmc.jpg"
-  bio              : "Phd student@ZJU, \nCS Bachelor@NJU"
+  bio              : "Phd student@ZJU, \n   CS Bachelor@NJU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
