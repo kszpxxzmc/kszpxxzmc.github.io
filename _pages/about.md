@@ -24,6 +24,7 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉  One first-author paper accepted to [Siggraph Asia 2025 (Journal)](https://dl.acm.org/journal/tog).
 - *2025.06*: &nbsp;🎉🎉  One first-author paper accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - *2025.03*: &nbsp;🎉🎉  One paper accepted to [Siggraph 2025](https://s2025.siggraph.org/).
 - *2025.01*: &nbsp;🎉🎉  One paper accepted to [ICLR 2025](https://iclr.cc/).
@@ -34,21 +35,6 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024_teaser.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2409.18261) [ECCV 2024]
-
-**Mengchen Zhang**, Tong Wu, Tai Wang, Tengfei Wang, Ziwei Liu, Dahua Lin 
-
-[**[Paper]**](https://arxiv.org/abs/2409.18261)&nbsp;
-[**[Video]**](https://www.youtube.com/watch?v=BKyw51bUhZs)&nbsp;
-[**[Code]**](https://github.com/3DTopia/Omni6D/)&nbsp;
-[**[Data]**](https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D/)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [ICCV 2025]
@@ -65,6 +51,23 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/3DGen-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2409.18261) [ECCV 2024]
+
+**Mengchen Zhang**, Tong Wu, Tai Wang, Tengfei Wang, Ziwei Liu, Dahua Lin 
+
+[**[Paper]**](https://arxiv.org/abs/2409.18261)&nbsp;
+[**[Video]**](https://www.youtube.com/watch?v=BKyw51bUhZs)&nbsp;
+[**[Code]**](https://github.com/3DTopia/Omni6D/)&nbsp;
+[**[Data]**](https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 [3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models](https://arxiv.org/abs/2503.21745) [Arxiv 2025]
 
