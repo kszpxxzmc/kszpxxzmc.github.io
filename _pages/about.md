@@ -34,7 +34,7 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024_teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [ICCV 2025]
@@ -49,9 +49,9 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/3DGen-Bench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024_teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2409.18261) [ECCV 2024]
 
@@ -65,9 +65,9 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/3DGen-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models](https://arxiv.org/abs/2503.21745) [Arxiv 2025]
 
