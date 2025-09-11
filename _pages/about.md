@@ -44,7 +44,7 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 [**[Project]**](https://kszpxxzmc.github.io/GenDoP/)&nbsp;
 [**[Paper]**](https://arxiv.org/abs/2504.07083)&nbsp;
 [**[Code]**](https://github.com/3DTopia/GenDoP)&nbsp;
-[**[Data]**]()
+[**[Data]**](https://huggingface.co/datasets/Dubhe-zmc/DataDoP)
 
 </div>
 </div>
@@ -73,7 +73,9 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 Yuhan Zhang$^\*$, **Mengchen Zhang**$^\*$, Tong Wu, Tengfei Wang, Gordon Wetzstein, Dahua Lin, Ziwei Liu
 
+[**[Project]**](https://zyh482.github.io/3DGen-Bench/)&nbsp;
 [**[Paper]**](https://arxiv.org/abs/2503.21745)&nbsp;
+[**[Code]**](https://github.com/3DTopia/3DGen-Bench)&nbsp;
 [**[Data]**](https://huggingface.co/datasets/3DGen/3DGen-Bench)
 
 </div>
