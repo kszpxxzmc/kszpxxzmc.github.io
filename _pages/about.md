@@ -66,6 +66,22 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/ViSAudio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation](https://arxiv.org/abs/2512.03036) [Arxiv 2025]
+
+**Mengchen Zhang**, Qi Chen, Tong Wu, Zihan Liu, Dahua Lin
+
+[**[Project]**](https://kszpxxzmc.github.io/ViSAudio-project)&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2512.03036)&nbsp;
+[**[Code]**](https://github.com/kszpxxzmc/ViSAudio)&nbsp;
+[**[Data]**]()
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/3DGen-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
