@@ -81,6 +81,19 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOG (Siggraph Asia 2025 Journal)</div><img src='images/papers/SS4D.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SS4D: Native 4D Generative Model via Structured Spacetime Latents](https://dl.acm.org/doi/pdf/10.1145/3763302) [TOG (Siggraph Asia 2025 Journal)]
+
+Zhibing Li$^\*$, Mengchen Zhang$^\*$, Tong Wu, Jing Tan, Jiaqi Wang, Dahua Lin
+
+<!-- [**[Project]**](https://zyh482.github.io/3DGen-Bench/)&nbsp; -->
+[**[Paper]**](https://dl.acm.org/doi/pdf/10.1145/3763302)&nbsp;
+<!-- [**[Code]**](https://github.com/3DTopia/3DGen-Bench)&nbsp; -->
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/3DGen-Bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
