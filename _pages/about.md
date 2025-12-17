@@ -88,9 +88,9 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 Zhibing Li$^\*$, **Mengchen Zhang$^\*$**, Tong Wu, Jing Tan, Jiaqi Wang, Dahua Lin
 
-<!-- [**[Project]**](https://zyh482.github.io/3DGen-Bench/)&nbsp; -->
+[**[Project]**](https://lizb6626.github.io/SS4D/)&nbsp;
 [**[Paper]**](https://dl.acm.org/doi/pdf/10.1145/3763302)&nbsp;
-<!-- [**[Code]**](https://github.com/3DTopia/3DGen-Bench)&nbsp; -->
+[**[Code]**](https://github.com/Lizb6626/SS4D/)&nbsp;
 
 </div>
 </div>
