@@ -34,6 +34,21 @@ My research interest includes 3D/4D generation and pose estimation. I have publi
 
 # 📝 Publications 
 
+<div class='paper-box' id='worldrecon'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/WorldRecon.webp' alt="WorldRecon: multi-view RGB inputs and reconstructed textured indoor scenes" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World](https://arxiv.org/abs/2610.18846) [arXiv 2026]
+
+**Mengchen Zhang**, Yang Li, Chunshi Wang, Tong Wu, Chunchao Guo
+
+[**[Project]**](https://kszpxxzmc.github.io/WorldRecon-website/)&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2610.18846)&nbsp;
+[**[Code]**](https://github.com/kszpxxzmc/WorldRecon)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
